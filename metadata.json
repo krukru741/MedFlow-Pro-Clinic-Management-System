@@ -1,0 +1,7 @@
+{
+  "name": "MedFlow Pro: Clinic Management System",
+  "description": "A comprehensive medical management system for clinics and diagnostic centers, featuring patient records, appointment scheduling, laboratory tracking, billing, and role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
